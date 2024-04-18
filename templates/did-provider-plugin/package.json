@@ -42,7 +42,7 @@
     "@veramo/data-store": "5.2.0",
     "@veramo/did-manager": "5.1.2",
     "@veramo/did-resolver": "5.2.0",
-    "@veramo/key-manager": "5.1.2",
+    "@veramo/key-manager": "5.6.0",
     "@veramo/kms-local": "5.1.2",
     "@veramo/utils": "5.2.0",
     "did-resolver": "4.0.1"
