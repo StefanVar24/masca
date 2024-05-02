@@ -1,6 +1,6 @@
 FROM blockchain-lab-um/masca:latest as builder
 
-FROM nginx:1.23.3-alpine
+FROM nginx:1.25.4-alpine
 
 # Create app directory
 RUN mkdir -p /app
