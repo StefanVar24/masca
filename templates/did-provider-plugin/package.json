@@ -38,7 +38,7 @@
   "dependencies": {
     "@veramo/core": "5.2.0",
     "@veramo/core-types": "5.1.2",
-    "@veramo/credential-w3c": "5.2.0",
+    "@veramo/credential-w3c": "6.0.0",
     "@veramo/data-store": "5.2.0",
     "@veramo/did-manager": "5.1.2",
     "@veramo/did-resolver": "5.2.0",
